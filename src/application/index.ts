@@ -1,0 +1,2 @@
+// Application barrel
+export {};

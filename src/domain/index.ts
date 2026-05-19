@@ -1,0 +1,2 @@
+// Domain barrel
+export {};
